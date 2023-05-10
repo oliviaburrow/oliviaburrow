@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @oliviaburrow
-- 👀 I’m interested in majoring in computer science
-- 🌱 I’m currently learning racket
+- 👋 Hi, I’m Olivia Burrow, I'm a student at Western Washington University and know python and Java.
 
 <!---
 oliviaburrow/oliviaburrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
